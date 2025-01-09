@@ -8,4 +8,6 @@ console.log("Hello, World!");
 
 ## HTML Code
 This section contains the HTML code...
+```html
 <h1>Hello World!</h1>
+```
